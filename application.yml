@@ -6,3 +6,7 @@ spring:
         url: jdbc:oracle:thin:@localhost:1521/XEPDB1
         username: tushark
         password: knpt
+        
+eureka:
+    instance:
+        preferIpAddress: true
