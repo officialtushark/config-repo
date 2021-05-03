@@ -1,3 +1,6 @@
+server:
+    port: 9780
+    
 eureka:
     client:
         fetch-registry: true
@@ -13,3 +16,5 @@ spring:
                 routes:
                   - id: patients-service
                     url: lb://patients-service
+                    predicates:
+                    - Path=/addpatient/**
