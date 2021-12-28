@@ -1,4 +1,5 @@
 gmail:
  today:
   messages: These are todays messages
- yesterday: These are yesterdays messages
+ yesterday:
+  messages: These are yesterdays messages
