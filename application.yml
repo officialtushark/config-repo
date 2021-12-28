@@ -1,12 +1,4 @@
-spring:
-    jpa:
-        show-sql: true
-        database-platform: org.hibernate.dialect.Oracle10gDialect
-    datasource:
-        url: jdbc:oracle:thin:@localhost:1521/XEPDB1
-        username: tushark
-        password: knpt
-        
-eureka:
-    instance:
-        preferIpAddress: true
+gmail:
+ today:
+  messages: These are todays messages
+ yesterday: These are yesterdays messages
