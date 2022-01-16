@@ -4,5 +4,5 @@ gmail:
  yesterday:
   messages: These are yesterdays messages
   
-pi: 100000000000000
+pi: 1000
 management.endpoints.web.exposure.include: '*'
