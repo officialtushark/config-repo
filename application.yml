@@ -1,8 +1,8 @@
 gmail:
  today:
-  messages: These are todays updated again messages and again cloud bus update
+  messages: These are todays updated again messages and again cloud bus update. It fucking works!
  yesterday:
   messages: These are yesterdays messages
   
-pi: 50
+pi: 100000000000000
 management.endpoints.web.exposure.include: '*'
