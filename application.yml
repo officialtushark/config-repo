@@ -3,3 +3,10 @@ gmail:
   messages: These are todays updated messages
  yesterday:
   messages: These are yesterdays messages
+  
+  
+management:
+ enpoints:
+  web:
+   exposure:
+    include: *
